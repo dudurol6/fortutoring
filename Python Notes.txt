@@ -1,0 +1,22 @@
+----------------------------------
+To create a project:
+
+1. Go to desired directory
+2. Type "django-admin startproject name" inside a root directory
+----------------------------------
+To run a server:
+
+1. Type "python manage.py runserver" inside a project directory
+----------------------------------
+To create and connect an app:
+
+1. Type "python manage.py startapp name" inside a project directory
+2. Connect the app to the project by going to "settings.py" inside the project and adding "app_name.apps.BaseConfig"
+----------------------------------
+URLs trigger Views!
+----------------------------------
+Models are for creating databases
+
+
+Now, continue with: (Databases & Admin Panel)
+https://youtu.be/PtQiiknWUcI?si=Hfsq0EWvZD4opvye&t=4390
